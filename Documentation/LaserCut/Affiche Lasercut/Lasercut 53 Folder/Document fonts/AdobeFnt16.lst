@@ -1,0 +1,123 @@
+%!Adobe-FontList 1.16
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextLTPro-Bold
+FamilyName:Avenir Next LT Pro
+StyleName:Bold
+FullName:Avenir Next LT Pro Bold
+MenuName:AvenirNext LT Pro Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\FABLAB\Alix Stage\Lasercut 53 Folder\Document fonts\AvenirNextLTPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:69772
+FileModTime:1118884410
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,AvenirNext LT Pro Bold
+NameArray:0,Mac,4,Avenir Next LT Pro Bold
+NameArray:0,Win,1,AvenirNext LT Pro Bold
+NameArray:0,Win,16,Avenir Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextLTPro-Regular
+FamilyName:Avenir Next LT Pro
+StyleName:Regular
+FullName:Avenir Next LT Pro
+MenuName:AvenirNext LT Pro Regular
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\FABLAB\Alix Stage\Lasercut 53 Folder\Document fonts\AvenirNextLTPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:66800
+FileModTime:1118884448
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,AvenirNext LT Pro Regular
+NameArray:0,Mac,4,Avenir Next LT Pro
+NameArray:0,Win,1,AvenirNext LT Pro Regular
+NameArray:0,Win,16,Avenir Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextLTPro-UltLtCnIt
+FamilyName:Avenir Next LT Pro
+StyleName:Ultra Light Condensed Italic
+FullName:Avenir Next LT Pro Ultra Light Condensed Italic
+MenuName:AvenirNext LT Pro UltLightCn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:H:\FABLAB\Alix Stage\Lasercut 53 Folder\Document fonts\AvenirNextLTPro-UltLtCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:68748
+FileModTime:1075728096
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,AvenirNext LT Pro UltLightCnIt
+NameArray:0,Mac,4,Avenir Next LT Pro Ultra Light Condensed Italic
+NameArray:0,Win,1,AvenirNext LT Pro UltLightCn
+NameArray:0,Win,16,Avenir Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MicrosoftSansSerif
+FamilyName:Microsoft Sans Serif
+StyleName:Regular
+FullName:Microsoft Sans Serif
+MenuName:Microsoft Sans Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\FABLAB\Alix Stage\Lasercut 53 Folder\Document fonts\micross.ttf
+DataFormat:sfntData
+FileLength:666944
+FileModTime:1416564990
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Microsoft Sans Serif
+NameArray:0,Win,1,Microsoft Sans Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\FABLAB\Alix Stage\Lasercut 53 Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1398978406
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

@@ -1,0 +1,110 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: AFFICHES.indd
+
+PACKAGE DATE: 17/06/2015 11:29
+Creation Date: 17/06/2015
+Modification Date: 17/06/2015
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+
+FONTS
+3 Fonts Used; 2 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Avenir LT Std 35 Light; Type: ???, Status: Missing
+- Name: Avenir LT Std 95 Black; Type: ???, Status: Missing
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Magenta; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Yellow; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Black; Angle: 0,000; Lines/Inch: 0,000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 39 Links Found; 0 Modified, 23 Missing 0 Inaccessible
+Images: 0 Embedded, 39 use RGB color space
+
+- Name: 15069701971_9253348f83_o (1).png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: 15069705461_b011d14c57_o.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: 15069718101_22224d8922_o.jpg; Type: JPEG RGB; Status: Missing
+- Name: 15072728835_39ae3e86e2_o.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: 15167684066_a55f7d540f_o (1).jpg; Type: JPEG RGB; Status: Missing
+- Name: 15190334212_3d873703c7_o (1).jpg; Type: JPEG RGB; Status: Missing
+- Name: 15247931404_7d3624b931_o.jpg; Type: JPEG RGB; Status: Missing
+- Name: 15644487487_eddb204034_o (1).jpg; Type: JPEG RGB; Status: Missing
+- Name: Capture d’écran 2015-04-13 à 14.38.17.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: Capture d’écran 2015-04-15 à 13.55.52.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+- Name: IMG_5447.JPG; Type: JPEG RGB; Status: Missing
+- Name: IMG_6926.JPG; Type: JPEG RGB; Status: Missing
+- Name: IMG_7199.JPG; Type: JPEG RGB; Status: Missing
+- Name: IMG_7927.JPG; Type: JPEG RGB; Status: Missing
+- Name: IMG_7999.JPG; Type: JPEG RGB; Status: Missing
+- Name: IMG_8266.JPG; Type: JPEG RGB; Status: Missing
+- Name: SAM_0832.JPG; Type: JPEG RGB; Status: Missing
+- Name: SAM_0844.JPG; Type: JPEG RGB; Status: Missing
+- Name: Vide-pastel (1).jpg; Type: JPEG RGB; Status: Missing
+- Name: pétal.jpg; Type: JPEG RGB; Status: Missing
+- Name: trehre.JPG; Type: JPEG RGB; Status: Missing
+- Name: trucs.tif; Type: TIFF RGB; Status: Missing
+- Name: unnamed.jpg; Type: JPEG RGB; Status: Missing
+
+PRINT SETTINGS
+PPD: N/A, (Canon MG5200 series Printer)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 mm, 0 mm, 0 mm, 0 mm
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Custom: 594 mm x 420 mm
+Paper Dimensions: 210 mm x 297 mm
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. AFFICHES.indd; type: Adobe InDesign publication; size: 8152K
+2. AFFICHES.idml; type: InDesign Markup Document; size: 125K
+3. AFFICHES.pdf; type: Adobe Acrobat Document; size: 6952K
+4. MinionPro-Regular.otf; type: Font file; size: 213K

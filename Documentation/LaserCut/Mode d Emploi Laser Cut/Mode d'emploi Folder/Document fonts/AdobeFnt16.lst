@@ -1,0 +1,90 @@
+%!Adobe-FontList 1.16
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EuphemiaCAS
+FamilyName:Euphemia
+StyleName:Regular
+FullName:Euphemia
+MenuName:Euphemia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\FABLAB\Alix Stage\Mode d Emploi Laser Cut\Mode d'emploi Folder\Document fonts\euphemia.ttf
+DataFormat:sfntData
+FileLength:173480
+FileModTime:1371567412
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Euphemia
+NameArray:0,Win,1,Euphemia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LaoUI
+FamilyName:Lao UI
+StyleName:Regular
+FullName:Lao UI
+MenuName:Lao UI
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\FABLAB\Alix Stage\Mode d Emploi Laser Cut\Mode d'emploi Folder\Document fonts\Laoui.ttf
+DataFormat:sfntData
+FileLength:95092
+FileModTime:1371567440
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lao UI
+NameArray:0,Win,1,Lao UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MicrosoftSansSerif
+FamilyName:Microsoft Sans Serif
+StyleName:Regular
+FullName:Microsoft Sans Serif
+MenuName:Microsoft Sans Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\FABLAB\Alix Stage\Mode d Emploi Laser Cut\Mode d'emploi Folder\Document fonts\micross.ttf
+DataFormat:sfntData
+FileLength:666944
+FileModTime:1416564990
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Microsoft Sans Serif
+NameArray:0,Win,1,Microsoft Sans Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\FABLAB\Alix Stage\Mode d Emploi Laser Cut\Mode d'emploi Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1398978406
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
